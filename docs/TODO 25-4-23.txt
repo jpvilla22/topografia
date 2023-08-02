@@ -1,0 +1,19 @@
+TODO
+
+- remover canvas logger
+- server UserId autoincremental
+
+
+Refactor de clases
+
+- handcontroller: quitar teleport/raycasting delegar en otras clases
+- sceneManager
+- Terrain: carga de terreno,  manejo de banderas y poligonos
+- Player ubicacion en el terreno, teleport, getOrientation para ubicar el minimap
+
+- VRmenu
+
+
+
+- UIManager
+
